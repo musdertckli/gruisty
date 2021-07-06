@@ -1,2 +1,2 @@
 # gruisty
-web yooga
+web yooga full
